@@ -4,6 +4,7 @@ date: 2023-12-12T11:15:22+01:00
 tags: []
 featured_image: ""
 description: ""
+weight: 1
 ---
 
 ## Introduktion

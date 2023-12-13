@@ -1,0 +1,21 @@
+body {
+    background-color: #21ff59;
+    color: #ff2cb5;
+    text-align: center;
+}
+
+h1 {
+    font-size: 8em;
+}
+
+article {
+    color: #f63c3c;
+}
+h2 {
+    color: #23ffb9;
+    text-align: center;
+}
+p {
+    color: #547e02;
+    text-align: center;
+}
