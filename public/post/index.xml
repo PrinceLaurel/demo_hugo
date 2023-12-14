@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Siganture Code on SC menu</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in Siganture Code on SC menu</description>
+    <title>Articles on SC menu</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Articles on SC menu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Dec 2023 12:39:38 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chapter I: Our first projekt</title>
       <link>http://localhost:1313/post/quizapp1/</link>
@@ -23,32 +23,11 @@
       <description>During week 46 we did a lot of implementations to our quiz app. This was the week which we as a team felt motivated, worked better, barerly any hindrace during our working flow.</description>
     </item>
     <item>
-      <title>Second projekt</title>
-      <link>http://localhost:1313/posts/about-page/</link>
-      <pubDate>Wed, 13 Dec 2023 12:39:38 +0100</pubDate>
-      <guid>http://localhost:1313/posts/about-page/</guid>
-      <description>Something This post is about??? </description>
-    </item>
-    <item>
-      <title>Kunskapskampen</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Tue, 12 Dec 2023 11:15:22 +0100</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Kunskapskampen is the first application that the Signature Code team has ever done, and this is emphasized text.</description>
-    </item>
-    <item>
       <title>Chapter III: Pit</title>
       <link>http://localhost:1313/post/quizapp3/</link>
       <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
       <guid>http://localhost:1313/post/quizapp3/</guid>
       <description>Poor Gringoire! the din of all the great double petards of the Saint-Jean, the discharge of twenty arquebuses on supports, the detonation of that</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>What is Signature Code? k&#xA;What is this site about? k</description>
     </item>
   </channel>
 </rss>
