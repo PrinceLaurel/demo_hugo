@@ -2,3 +2,22 @@ baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
 title = 'SC menu'
 theme = 'ananke'
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[languages]
+  [languages.en]
+    weight = 1
+    contentDir = "content/en"
+    # languageDirection = 'rtl' for Right-To-Left languages
+  [languages.swe]
+    title = "SC menu swe"
+    weight = 2
+    contentDir = "content/swe"
+
+[params]
+ recent_posts_number = 3

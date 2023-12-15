@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on SC menu swe</title>
+    <link>http://localhost:1313/swe/tags/scene/</link>
+    <description>Recent content in scene on SC menu swe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>swe</language>
+    <lastBuildDate>Wed, 13 Dec 2023 10:58:08 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/swe/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kapitel I: Vårt första projekt</title>
+      <link>http://localhost:1313/swe/post/quizapp1/</link>
+      <pubDate>Wed, 13 Dec 2023 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/swe/post/quizapp1/</guid>
+      <description>Our first projekt started by first planning how we as a team would create a quiz app that had the wishes our investor had for his quiz app. Vårt första projekt började med att först planera hur vi som team skulle skapa en quiz app som hade de önskemål som vår investerare hade för sin quiz app.</description>
+    </item>
+  </channel>
+</rss>

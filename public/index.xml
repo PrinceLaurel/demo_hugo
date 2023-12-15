@@ -5,43 +5,36 @@
     <link>http://localhost:1313/</link>
     <description>Recent content in Siganture Code on SC menu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 13 Dec 2023 12:39:38 +0100</lastBuildDate>
+    <language>en</language>
+    <lastBuildDate>Thu, 14 Dec 2023 12:00:00 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chapter I: Our first projekt</title>
       <link>http://localhost:1313/post/quizapp1/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <pubDate>Wed, 13 Dec 2023 10:58:08 -0400</pubDate>
       <guid>http://localhost:1313/post/quizapp1/</guid>
       <description>Our first projekt started by first planning how we as a team would create a quiz app that had the wishes our investor had for his quiz app.</description>
     </item>
     <item>
       <title>Chapter II: Peak</title>
       <link>http://localhost:1313/post/quizapp2/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      <pubDate>Wed, 13 Dec 2023 11:00:59 -0400</pubDate>
       <guid>http://localhost:1313/post/quizapp2/</guid>
-      <description>During week 46 we did a lot of implementations to our quiz app. This was the week which we as a team felt motivated, worked better, barerly any hindrace during our working flow.</description>
+      <description>During week 46 we did a lot of implementations for our quiz app. This was the week when we as a team felt motivated, worked better, harldy any obstacle during our workflow.</description>
     </item>
     <item>
-      <title>Second projekt</title>
-      <link>http://localhost:1313/posts/about-page/</link>
-      <pubDate>Wed, 13 Dec 2023 12:39:38 +0100</pubDate>
-      <guid>http://localhost:1313/posts/about-page/</guid>
-      <description>Something This post is about??? </description>
-    </item>
-    <item>
-      <title>Kunskapskampen</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Tue, 12 Dec 2023 11:15:22 +0100</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Kunskapskampen is the first application that the Signature Code team has ever done, and this is emphasized text.</description>
-    </item>
-    <item>
-      <title>Chapter III: Pit</title>
+      <title>Chapter III: The pit</title>
       <link>http://localhost:1313/post/quizapp3/</link>
-      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      <pubDate>Wed, 13 Dec 2023 11:13:32 -0400</pubDate>
       <guid>http://localhost:1313/post/quizapp3/</guid>
-      <description>Poor Gringoire! the din of all the great double petards of the Saint-Jean, the discharge of twenty arquebuses on supports, the detonation of that</description>
+      <description>Week 47 was the week when our team ended up in the pit.</description>
+    </item>
+    <item>
+      <title>Chapter IV: Uphill</title>
+      <link>http://localhost:1313/post/quizapp4/</link>
+      <pubDate>Thu, 14 Dec 2023 11:14:48 -0400</pubDate>
+      <guid>http://localhost:1313/post/quizapp4/</guid>
+      <description>After struggling with all the issues we during week 47, this made it the most important week when we needed to get more progress with our quiz app.</description>
     </item>
     <item>
       <title>About</title>
@@ -49,6 +42,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
       <description>What is Signature Code? k&#xA;What is this site about? k</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the shortcode to make it work. Check out Formspree for a simple, free form service.&#xA;Your Name&#xD;Email Address&#xD;An email address is required.&#xD;Message&#xD;</description>
     </item>
   </channel>
 </rss>

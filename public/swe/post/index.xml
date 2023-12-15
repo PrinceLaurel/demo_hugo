@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on SC menu swe</title>
+    <link>http://localhost:1313/swe/post/</link>
+    <description>Recent content in Articles on SC menu swe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>swe</language>
+    <lastBuildDate>Tue, 12 Dec 2023 12:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/swe/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kapitel I: Vårt första projekt</title>
+      <link>http://localhost:1313/swe/post/quizapp1/</link>
+      <pubDate>Wed, 13 Dec 2023 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/swe/post/quizapp1/</guid>
+      <description>Our first projekt started by first planning how we as a team would create a quiz app that had the wishes our investor had for his quiz app. Vårt första projekt började med att först planera hur vi som team skulle skapa en quiz app som hade de önskemål som vår investerare hade för sin quiz app.</description>
+    </item>
+    <item>
+      <title>Kapitel II: Toppen</title>
+      <link>http://localhost:1313/swe/post/quizapp2/</link>
+      <pubDate>Wed, 13 Dec 2023 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/swe/post/quizapp2/</guid>
+      <description>Under vecka 46 gjorde vi en hel del implementationer till vår quiz app. Det här var veckan då vi som ett team kände oss motiverade, jobbade bättre, knappt något hinder under vårt arbetsflöde.</description>
+    </item>
+    <item>
+      <title>Kapitel III: Gropen</title>
+      <link>http://localhost:1313/swe/post/quizapp3/</link>
+      <pubDate>Wed, 13 Dec 2023 11:13:32 -0400</pubDate>
+      <guid>http://localhost:1313/swe/post/quizapp3/</guid>
+      <description>Vecka 47 var den veckan då vårt team hamnade i gropen.</description>
+    </item>
+    <item>
+      <title>Kapitel IV: Uppförsbacke</title>
+      <link>http://localhost:1313/swe/post/quizapp4/</link>
+      <pubDate>Thu, 14 Dec 2023 11:14:48 -0400</pubDate>
+      <guid>http://localhost:1313/swe/post/quizapp4/</guid>
+      <description>Efter att ha kämpat med alla problem vi fick under vecka 47, gjorde detta till den viktigaste veckan då vi behövde få mer framsteg med vår quiz app.</description>
+    </item>
+  </channel>
+</rss>

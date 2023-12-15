@@ -5,13 +5,13 @@
     <link>http://localhost:1313/tags/scene/</link>
     <description>Recent content in scene on SC menu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Dec 2023 10:58:08 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/scene/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chapter I: Our first projekt</title>
       <link>http://localhost:1313/post/quizapp1/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <pubDate>Wed, 13 Dec 2023 10:58:08 -0400</pubDate>
       <guid>http://localhost:1313/post/quizapp1/</guid>
       <description>Our first projekt started by first planning how we as a team would create a quiz app that had the wishes our investor had for his quiz app.</description>
     </item>
