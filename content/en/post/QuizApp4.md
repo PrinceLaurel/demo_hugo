@@ -6,4 +6,10 @@ tags: []
 title: "Chapter IV: Uphill"
 weight: 5
 ---
+<style>
+  body {
+    background-image: url('/images/our_uphill.jpg');
+    background-size: cover;
+  }
+</style>
 After struggling with all the issues we during week 47, this made it the most important week when we needed to get more progress with our quiz app.

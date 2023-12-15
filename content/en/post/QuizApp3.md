@@ -6,4 +6,10 @@ tags: []
 title: "Chapter III: The pit"
 weight: 4
 ---
+<style>
+  body {
+    background-image: url('/images/the_pit.jpg');
+    background-size: cover;
+  }
+</style>
 Week 47 was the week when our team ended up in the *pit*.

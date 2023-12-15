@@ -6,6 +6,12 @@ menu:
   main:
     weight: 1
 ---
+<style>
+  body {
+    background-image: url('/images/hero_background.jpg');
+    background-size: cover;
+  }
+</style>
 {{< figure src="/images/signature_code.png" title="What is Signature Code?" >}}
 
 k 

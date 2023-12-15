@@ -6,4 +6,10 @@ tags: []
 title: "Kapitel III: Gropen"
 weight: 4
 ---
+<style>
+  body {
+    background-image: url('/images/the_pit.jpg');
+    background-size: cover;
+  }
+</style>
 Vecka 47 var den veckan då vårt team hamnade i *gropen*.

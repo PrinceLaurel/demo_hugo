@@ -7,4 +7,10 @@ theme_version: '2.8.2'
 cascade:
   featured_image: '/images/hero_background.jpg'
 ---
+<style>
+  body {
+    background-image: url('/images/hero_background.jpg');
+    background-size: cover;
+  }
+</style>
 Välkommen till den här bloggen om våra projekt.
