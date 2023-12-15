@@ -6,4 +6,10 @@ tags: ["scene"]
 title: "Chapter I: Our first projekt"
 weight: 2
 ---
+<style>
+  body {
+    background-image: url('/images/moodboard.png');
+    background-size: cover;
+  }
+</style>
 Our first projekt started by first planning how we as a team would create a quiz app that had the wishes our investor had for his quiz app.
